@@ -1,4 +1,4 @@
-# Sign-based-Video-Trimmer
+# Sign Based Video Trimmer
 Used OpenCV and Convolutional Neural Networks to create checkpoints and trim videos accordingly.
 
 # How it works:
